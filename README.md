@@ -17,31 +17,27 @@
 
 ### Difference Between UI & UX.
 
-- **Videos**
-    - English : [Youtube Video](https://www.youtube.com/watch?v=RtPnVtXw6HU)
-    - Arabic : [Youtube Video](https://www.youtube.com/watch?v=KaIzzUs2BkI)
+- **contact now**
+    - English : [linkedin]((https://www.linkedin.com/in/fuyaram-dewasi/))
+
 - **Articles**
-    - [What’s the difference between UI & UX design?](https://manvisinghwal.medium.com/whats-the-difference-between-ui-ux-design-aeddfdbe3206)
+    - [What’s the difference between UI & UX design?][linkedin]((https://www.linkedin.com/in/fuyaram-dewasi/))
+
 
 ### How to start with a Tool
 
 **Adobe XD Tool**
 
-- English Tutorial (Recommended) : [Learnux Playlist](https://learnux.io/course/adobe-xd)
-- Arabic Tutorial : [Youtube Playlist](https://www.youtube.com/watch?v=EqSd8vXGcBk&list=PLRemWV5koZLBR1khj5OlC_xLkdsI8G5DF)
 
 **Figma Tool**
 
-- English Tutorial (Recommended) : [Learnux Playlist](https://learnux.io/course/figma)
-- Arabic Tutorial :  [Youtube Playlist](https://www.youtube.com/playlist?list=PLkIliLHi5M4LosGOLzn2f6baDETNsYpCZ)
+
 
 ### Practice on how to use the tool
 - **Adobe XD**
-     - [E-Commerce App (Youtube)](https://www.youtube.com/watch?v=_5uI_BOpvkA)
-     - [Plant App (Behance)](https://www.behance.net/gallery/127006201/Plant-App-Sign-up-login-UI?tracking_source=search_projects_recommended%7Clog%20in%20sign%20up)
+     
 - **Figma**
-     - [Food Ordering Mobile App Design](https://youtu.be/O3BmHGNAGhM)
-     - [Full App Design.](https://youtu.be/GP91kWinPdg)
+     -
 ### Basics of UI Design.
 
 - **Color inspiration**
@@ -132,10 +128,7 @@ Note: Follow the hierarchy of the tasks
 
 Note: You can search for your idea and start to build your own design as it is only inspiration.
 
-- [Behance](https://www.behance.net/)
-- [Dribble](https://dribbble.com/)
-- [Pinterest](https://www.pinterest.com/)
-- [Mobbin](https://mobbin.design/)
+
 
 ### Level 0 ✔
 
@@ -153,30 +146,8 @@ Note: You can search for your idea and start to build your own design as it is o
 - [Design Systems: Step-by-Step](https://www.uxpin.com/create-design-system-guide/)
 - [10 tips for designing the user mind](https://www.seekmomentum.com/blog/website-design/10-tips-designing-users-mind)
 
-### Full UI project
 
-- An idea from your mind as it will be designed for:
-    - Mobile Application
-    - Website
 
-### Mockup
-
-- [What is a Mockup?](https://www.youtube.com/watch?v=8iP2qXwk184&t=189s)
-    - [Mockup for free](https://mockupsforfree.com/)
-    - [Mockup World](https://www.mockupworld.co/)
-    - [Graphic Burger](https://graphicburger.com/)
-    - [Is graphics](https://www.ls.graphics/free-mockups)
-
-### Portfolio
-
-- [Complete Guide to UI Portfolio](https://blog.uxfol.io/ui-designer-portfolio/)
-- [Advice for Beginners](https://www.youtube.com/watch?v=NGiQCBsVayI)
-
-### Upload project
-
-- [How To Create A Clean Portfolio Using Behance](https://www.youtube.com/watch?v=5yL-_sYKCHU)
-
----
 
 # **UX Getting Started**🕊
 
@@ -251,11 +222,7 @@ Note: You can search for your idea and start to build your own design as it is o
 - Implement a mobile application and a website included UI/UX process
 - Upload the final project with a use case in Behance
 
-### UX Certification (for more experience):
 
-**[Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design?utm_source=gg&utm_medium=sem&utm_campaign=15-GoogleUXDesign-ROW&utm_content=15-GoogleUXDesign-ROW&campaignid=12566638067&adgroupid=119528847077&device=c&keyword=ux%20design%20google%20certificate&matchtype=p&network=g&devicemodel=&adpostion=&creativeid=507197228289&hide_mobile_promo&gclid=CjwKCAiAvriMBhAuEiwA8Cs5lTRCjuQvh68Hh6ksx5OAb3q3eNkZBpEz4xrPiO7_N0pWhc4uy36PCRoCMXoQAvD_BwE)**
-
-**[UX Design Course Nanodegree (Udacity)](https://www.udacity.com/course/ux-designer-nanodegree--nd578)**
 
 ### Useful links for UI/UX
 
